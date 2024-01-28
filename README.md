@@ -10,9 +10,27 @@ Embrace the essence of the night with **Dark Wolf Gray**, a Visual Studio Code t
 - **Syntax Highlighting:** Clear and distinct color usage for syntax highlighting, enhancing code readability and ease of navigation.
 - **Compatibility:** Perfectly compatible with a wide array of programming languages and file types in VS Code.
 
-## 🌖 Screenshot
+## 🌖 Screenshots
+
+### HTML
+
+![HTML Screenshot](screenshots/html.png)
+
+### CSS
+
+![CSS Screenshot](screenshots/css.png)
+
+### JavaScript
 
 ![JavaScript Screenshot](screenshots/javascript.png) <!-- Reference to JavaScript Screenshot -->
+
+### Python
+
+![Python Screenshot](screenshots/python.png)
+
+### JSON
+
+![JSON Screenshot](screenshots/json.png)
 
 ## 🛠 Installation
 

@@ -2,11 +2,11 @@
   "name": "dark-wolf-gray",
   "displayName": "Dark Wolf Gray",
   "description": "A dark gray (grey) theme suitable for all of you night wolves out there.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "/ico.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AK-CodeWorks/dark-wolf-gray"
+    "url": "https://github.com/AKCodeWorks/dark-wolf-gray"
   },
   "publisher": "AKCodeWorks",
   "license": "MIT",
