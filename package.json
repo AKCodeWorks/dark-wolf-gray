@@ -2,7 +2,7 @@
   "name": "dark-wolf-gray",
   "displayName": "Dark Wolf Gray",
   "description": "A dark gray (grey) theme suitable for all of you night wolves out there.",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "icon": "/ico.png",
   "repository": {
     "type": "git",
@@ -24,5 +24,27 @@
         "path": "./themes/Dark Wolf Gray Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "screenshots": [
+    {
+      "path": "./screenshots/html.png",
+      "caption": "HTML Syntax Highlighting in Dark Wolf Gray"
+    },
+    {
+      "path": "./screenshots/css.png",
+      "caption": "CSS Syntax Highlighting in Dark Wolf Gray"
+    },
+    {
+      "path": "./screenshots/javascript.png",
+      "caption": "JavaScript Syntax Highlighting in Dark Wolf Gray"
+    },
+    {
+      "path": "./screenshots/python.png",
+      "caption": "Python Syntax Highlighting in Dark Wolf Gray"
+    },
+    {
+      "path": "./screenshots/json.png",
+      "caption": "JSON Syntax Highlighting in Dark Wolf Gray"
+    }
+  ]
 }
