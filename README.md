@@ -1,32 +1,50 @@
-# Deep Sea Blue - VS Code Theme
+# Dark Wolf Gray - VS Code Theme
 
-Dive into the depths of coding with **Deep Sea Blue**, a Visual Studio Code theme that takes you on a serene journey to the mysterious world beneath the ocean's surface. Designed for developers who love the calmness and depth of the deep sea.
+Embrace the essence of the night with **Dark Wolf Gray**, a Visual Studio Code theme that captures the mystique and elegance of a moonlit forest. Designed for developers who appreciate the subtle strength and majesty of the wolf in the quiet of the night.
 
-## 🌊 Features
+## 🌑 Features
 
-- **Rich Blue Hues:** Enjoy a wide range of blue tones, from the light shades of sea foam to the deep, dark blues of the ocean abyss.
-- **Underwater Aesthetics:** Elements inspired by the deep sea environment, including subtle gradients and soft highlights that mimic underwater light.
-- **Easy on the Eyes:** Carefully selected colors to reduce eye strain during long coding sessions.
-- **Syntax Highlighting:** Enhanced readability with clear and distinct colors for syntax highlighting, making it easier to write and review code.
-- **Compatibility:** Works great with a wide range of programming languages and file types supported by VS Code.
+- **Muted Gray Tones:** Experience a spectrum of gray shades, reminiscent of a wolf's fur under the moonlight, from soft silvers to deep charcoals.
+- **Nocturnal Aesthetics:** Elements inspired by the mysterious night, including gentle contrasts and sleek highlights that reflect the moon's glow.
+- **Gentle on the Eyes:** Colors chosen to minimize eye strain, ideal for long nights of coding.
+- **Syntax Highlighting:** Clear and distinct color usage for syntax highlighting, enhancing code readability and ease of navigation.
+- **Compatibility:** Perfectly compatible with a wide array of programming languages and file types in VS Code.
 
-## 📸 Screenshot
+## 🌖 Screenshots
 
-![Deep Sea Blue Theme](screenshot.png)
+### HTML
 
-Take a look at Deep Sea Blue in action!
+![HTML Screenshot](screenshots/html.png)
+
+### CSS
+
+![CSS Screenshot](screenshots/css.png)
+
+### JavaScript
+
+![JavaScript Screenshot](screenshots/javascript.png)
+
+### Python
+
+![Python Screenshot](screenshots/python.png)
+
+### JSON
+
+![JSON Screenshot](screenshots/json.png)
+
+Take a glimpse at Dark Wolf Gray in action with various programming languages!
 
 ## 🛠 Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Deep Sea Blue`
+2. Search for `Dark Wolf Gray`
 3. Click **Install**
-4. Click **Reload** to reload your editor
-5. Code/File → Preferences → Color Theme → **Deep Sea Blue**
+4. Click **Reload** to refresh your editor
+5. Code/File → Preferences → Color Theme → **Dark Wolf Gray**
 
 ## 📝 Feedback
 
-Your feedback and suggestions are very important! If you have any ideas or encounter any issues, please feel free to open an issue in the [GitHub repository]("https:/github.com/agillispie90/deep-sea-blue).
+Your feedback and suggestions are greatly valued! If you have any ideas or face any issues, please don't hesitate to open an issue in the [GitHub repository]("https://github.com/AKCodeWorks/dark-wolf-gray).
 
 ## 📘 License
 
@@ -34,4 +52,4 @@ This theme is open source and available under the MIT License
 
 ---
 
-Enjoy coding in the tranquil depths of the ocean with **Deep Sea Blue**!
+Immerse yourself in the tranquil yet powerful ambience of the night with **Dark Wolf Gray**!
