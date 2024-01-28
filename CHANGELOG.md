@@ -1,8 +1,8 @@
 # Change Log
 
-All notable changes to the "Deep Sea Blue" theme will be documented in this file.
+All notable changes to the "Dark Wolf Gray" theme will be documented in this file.
 
-## [0.0.2 - 0.0.5] - 2024-01-28
+## [0.0.2 - 0.0.6] - 2024-01-28
 
 ### Changed
 
