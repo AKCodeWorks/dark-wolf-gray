@@ -14,23 +14,23 @@ Embrace the essence of the night with **Dark Wolf Gray**, a Visual Studio Code t
 
 ### HTML
 
-![HTML Screenshot](screenshots/html.png)
+![HTML Screenshot](/html.png)
 
 ### CSS
 
-![CSS Screenshot](screenshots/css.png)
+![CSS Screenshot](/css.png)
 
 ### JavaScript
 
-![JavaScript Screenshot](screenshots/javascript.png)
+![JavaScript Screenshot](/javascript.png)
 
 ### Python
 
-![Python Screenshot](screenshots/python.png)
+![Python Screenshot](/python.png)
 
 ### JSON
 
-![JSON Screenshot](screenshots/json.png)
+![JSON Screenshot](/json.png)
 
 Take a glimpse at Dark Wolf Gray in action with various programming languages!
 

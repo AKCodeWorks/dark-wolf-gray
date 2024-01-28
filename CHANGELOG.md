@@ -2,6 +2,12 @@
 
 All notable changes to the "Deep Sea Blue" theme will be documented in this file.
 
+## [0.0.2 - 0.0.3] - 2024-01-28
+
+### Changed
+
+- Updated various package json contents to fit VS Code marketplace format.
+
 ## [0.0.1] - 2024-01-28
 
 ### Added
