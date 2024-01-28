@@ -1,0 +1,28 @@
+{
+  "name": "dark-wolf-gray",
+  "displayName": "Dark Wolf Gray",
+  "description": "A dark gray (grey) theme suitable for all of you night wolves out there.",
+  "version": "0.0.1",
+  "icon": "/ico.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AK-CodeWorks/deep-sea-blue"
+  },
+  "publisher": "AKCodeWorks",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Wolf Gray Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Wolf Gray Theme-color-theme.json"
+      }
+    ]
+  }
+}
